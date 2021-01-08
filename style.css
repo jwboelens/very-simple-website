@@ -62,25 +62,27 @@ h1{
   font-weight: 600;
 }
 h2 {
+  font-family: coniferous,sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 1.75em;
-  font-weight: 600;
   line-height: 1.2;
   margin: 2em 0 0;
-  letter-spacing: -0.03em;
 }
-h3{
+h3 {
+  font-family: coniferous,sans-serif;
+  font-weight: 500;
+  font-style: normal;
   font-size: 1.25em;
-  font-weight: 600;
   margin: 2em 0 1em;
-  letter-spacing: -0.01em;
 }
-a{
+a {
   color:#0064c1;
 }
-a:hover, a:active{
+a:hover, a:active {
   outline-width:0;
 }
-a:hover{
+a:hover {
   color:#f00000;
 }
 @media (prefers-color-scheme: dark) {
