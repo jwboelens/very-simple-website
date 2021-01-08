@@ -2,9 +2,9 @@
   --article-max-width: 36rem;
 }
 html {
-  font-family: "Ringside Regular SSm A", "Ringside Regular SSm B";
-  font-style: normal;
+  font-family: covik-sans, sans-serif;
   font-weight: 400;
+  font-style: normal;
   font-size: 17px;
   line-height: 1.55;
   color: #121212;
