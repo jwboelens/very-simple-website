@@ -1,7 +1,9 @@
+@import url('https://rsms.me/inter/inter.css');
+
 :root {
   --article-max-width: 36rem;
 }
-@import url('https://rsms.me/inter/inter.css');
+
 html {
   font-family: 'Inter', sans-serif;
   font-style: normal;
