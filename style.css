@@ -50,6 +50,9 @@ date {
   font-size: 13px;
   color: #aaa;
 }
+b, strong {
+  font-weight: 600;
+}
 ul, ol{
   margin-top:0;
   padding-top:0;
