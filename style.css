@@ -1,9 +1,7 @@
 @import url('https://rsms.me/inter/inter.css');
-
 :root {
   --article-max-width: 36rem;
 }
-
 html {
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -21,32 +19,25 @@ html {
 .need-light-background {
   background-color: #FFFFFF;
 }
-
 body{
   margin:1.2em;
   font-size:1rem;
 }
-
 header, main {	
   max-width: var(--article-max-width);	
   margin: 0 auto;	
 }
-
-header {
-  margin-bottom: 3em;
-}
-.logo {
-  font-size: 16px;
-  color: #f000000;
-  font-weight: 600;
-  text-decoration: none;
+date {
+  font-size: 13px;
+  color: #aaa;
+  display: inline-block;
+  margin-bottom: 1em;
 }
 img, picture, iframe {
   display: block;
   max-width: 100%;
   margin: 0 auto;
 }
-
 img, picture {
   height: auto;
 }
@@ -63,9 +54,10 @@ h1{
   font-size: 2.5em;
   font-weight: 600;
 }
-h2{
+h2 {
   font-size: 1.75em;
   font-weight: 600;
+  margin: 2em 0 0;
 }
 h3{
   font-size: 1.25em;
@@ -111,22 +103,18 @@ figure figcaption{
   font-size:0.85em;
   text-align: center
 }
-
 figure.gallery{
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
-
 figure.gallery img{
   max-width: calc(var(--article-max-width) / 3);
 }
-
 code, kbd, var, samp{
   font-family:Consolas, "Lucida Console", Monaco, monospace;
   font-style:normal;
 }
-
 pre{
   overflow-x:auto;
   font-size:0.8em;
@@ -135,7 +123,6 @@ pre{
   background-size:1px 100%, 1px 100%;
   background-repeat:no-repeat, no-repeat;
 }
-
 pre > code{
   display:inline-block;
   overflow-x:visible;
