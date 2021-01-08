@@ -20,8 +20,8 @@ html {
   background-color: #FFFFFF;
 }
 body{
-  margin:1.2em;
-  font-size:1rem;
+  margin: 2em;
+  font-size: 1rem;
 }
 header, main {	
   max-width: var(--article-max-width);	
