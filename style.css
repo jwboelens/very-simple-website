@@ -27,6 +27,11 @@ header, main {
   max-width: var(--article-max-width);	
   margin: 0 auto;	
 }
+.logo {
+  color: #f00000;
+  text-decoration: none;
+  font-weight: 600;
+}
 date {
   font-size: 13px;
   color: #aaa;
