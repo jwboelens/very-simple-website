@@ -1,9 +1,9 @@
 :root {
   --article-max-width: 36rem;
 }
-
+@import url('https://rsms.me/inter/inter.css');
 html {
-  font-family: "Whitney SSm A", "Whitney SSm B";
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -57,14 +57,17 @@ ul, ol{
 
 h1{
   font-size: 2.5em;
+  font-weight: 600;
 }
   
 h2{
   font-size: 1.75em;
+  font-weight: 600;
 }
 
 h3{
   font-size: 1.25em;
+  font-weight: 600;
 }
 
 a{
