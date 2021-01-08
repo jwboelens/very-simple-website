@@ -45,32 +45,27 @@ img, picture, iframe {
 img, picture {
   height: auto;
 }
-
-iframe {
-  width: 100%;
+date {
+  font-size: 13px;
+  color: #aaa;
 }
-
 ul, ol{
   margin-top:0;
   padding-top:0;
   padding-left:2em;
 }
-
 h1{
   font-size: 2.5em;
   font-weight: 600;
 }
-  
 h2{
   font-size: 1.75em;
   font-weight: 600;
 }
-
 h3{
   font-size: 1.25em;
   font-weight: 600;
 }
-
 a{
   color:#0064c1;
 }
@@ -91,8 +86,6 @@ a:hover{
     color: hsla(273, 62%, 85%, 1);
   }
 }
-
-
 h1 a, h2 a, h3 a,
 h1 a:visited, h2 a:visited, h3 a:visited {
   color: #000000;
@@ -104,16 +97,13 @@ h1 a:visited, h2 a:visited, h3 a:visited {
     color: #FFFFFF;
   }
 }
-
 h1 a:hover, h2 a:hover, h3 a:hover {
   color: #444444;
 }
-
 figure{
   margin:1em 0 0.5em;
   padding:0;
 }
-
 figure figcaption{
   opacity:0.65;
   font-size:0.85em;
