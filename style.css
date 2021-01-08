@@ -52,12 +52,12 @@ date {
 b, strong {
   font-weight: 600;
 }
-ul, ol{
+ul, ol {
   margin-top:0;
   padding-top:0;
   padding-left:2em;
 }
-h1{
+h1 {
   font-size: 2.5em;
   font-weight: 600;
 }
@@ -65,7 +65,7 @@ h2 {
   font-family: coniferous,sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 1.75em;
+  font-size: 2.1em;
   line-height: 1.2;
   margin: 2em 0 0;
 }
