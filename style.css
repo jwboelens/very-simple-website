@@ -1,9 +1,10 @@
+@import url('https://rsms.me/inter/inter.css');
 :root {
   --article-max-width: 32rem;
 }
 html {
-  font-family: Roboto,Helvetica,Arial,sans-serif;
-  font-size: 16px;
+  font-family: 'Inter', sans-serif;
+  font-size: 17px;
   line-height: 1.55;
   color: #121212;
 }
