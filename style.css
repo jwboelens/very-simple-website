@@ -1,22 +1,11 @@
 @import url('https://rsms.me/inter/inter.css');
-:root {
-  --article-max-width: 32rem;
-}
 html {
   font-family: 'Inter', sans-serif;
   font-size: 25px;
   line-height: 1.55;
   color: #121212;
   font-weight: 800;
-}
-@media (prefers-color-scheme: dark) {
-  html {
-    background-color: #121212;
-    color: #FFFFFF;
-  }
-}
-.need-light-background {
-  background-color: #FFFFFF;
+  letter-spacing: -0.02em;
 }
 body{
   margin: 4em;
