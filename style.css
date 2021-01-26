@@ -1,11 +1,11 @@
 @import url('https://rsms.me/inter/inter.css');
 html {
-  font-family: 'Inter', sans-serif;
+  font-family: "Sentinel SSm A", "Sentinel SSm B";
+  font-style: normal;
+  font-weight: 400;
   font-size: 15px;
   line-height: 1.5;
   color: #121212;
-  font-weight: 400;
-  letter-spacing: -0.02em;
   -moz-osx-font-smoothing: grayscale;
 }
 body{
