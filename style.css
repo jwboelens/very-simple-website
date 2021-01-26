@@ -21,3 +21,6 @@ h3 {
   line-height: 1.2;
   letter-spacing: -0.04em;
 }
+li::marker {
+  color: #aaa;
+}
