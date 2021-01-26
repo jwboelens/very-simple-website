@@ -20,7 +20,18 @@ h3 {
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: -0.04em;
+  margin: 2em 0 1em;
+}
+h3:first-of-type {
+  margin: 1em 0 1em;
 }
 li::marker {
   color: #aaa;
+  margin: 0 0 0 -1.7em;
+}
+hr {
+	margin: 2rem 0;
+	max-width: 3rem;
+	border: none;
+	border-top: 1px solid rgba(13,13,13,.2);
 }
