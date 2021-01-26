@@ -22,9 +22,6 @@ h3 {
   letter-spacing: -0.04em;
   margin: 2em 0 1em;
 }
-h3:first-of-type {
-  margin: 0 0 1em;
-}
 li {
   margin: 0 0 0 -1.7em;
 }
