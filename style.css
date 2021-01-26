@@ -3,12 +3,12 @@ html {
   font-family: "Sentinel SSm A", "Sentinel SSm B";
   font-style: normal;
   font-weight: 400;
-  font-size: 15px;
   line-height: 1.5;
   color: #121212;
   -moz-osx-font-smoothing: grayscale;
 }
 body {
+  font-size: 90%;
   margin: 4em;
   max-width: 34rem;
   margin: 0 auto;
