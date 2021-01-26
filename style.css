@@ -25,13 +25,15 @@ h3 {
 h3:first-of-type {
   margin: 1em 0 1em;
 }
-li::marker {
-  color: #aaa;
+li {
   margin: 0 0 0 -1.7em;
 }
+li::marker {
+  color: #aaa;
+}
 hr {
-	margin: 2rem 0;
-	max-width: 3rem;
-	border: none;
-	border-top: 1px solid rgba(13,13,13,.2);
+  margin: 2rem 0;
+  max-width: 3rem;
+  border: none;
+  border-top: 1px solid rgba(13,13,13,.2);
 }
