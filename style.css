@@ -8,13 +8,10 @@ html {
   color: #121212;
   -moz-osx-font-smoothing: grayscale;
 }
-body{
+body {
   margin: 4em;
-}
-aside, footer, header, main {
-  max-width: 33.75rem;
+  max-width: 34rem;
   margin: 0 auto;
-  padding: 0 3%;
 }
 h3 {
   font-family: "Decimal A", "Decimal B";
