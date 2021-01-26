@@ -15,42 +15,7 @@ body {
   padding: 2em 1em;
 }
 @media screen and (min-width:30em) {
-    font-size: 95%;
-  }
-
-  @media screen and (min-width:60em) {
-    font-size: 100%;
-  }
-
-  @media screen and (min-width:75em) {
-    font-size: 105%;
-  }
-
-  @media screen and (min-width:90em) {
-    font-size: 110%;
-    line-height: 1.35em; /* Tighter leading when font sise is larger */
-  }
-
-  @media screen and (min-width:96em) {
-    font-family: "Degular", sans-serif; /* Switch to the normal optical style for larger screens */
-    font-size: 115%;
-  }
-
-  @media screen and (min-width:105em) {
-    font-size: 120%;
-  }
-
-  @media screen and (min-width:112em) {
-    font-size: 135%;
-    /* line-height: 1.25em; */
-  }
-
-  @media screen and (min-width:120em) {
-    font-size: 145%;
-  }
-
-  @media screen and (min-width:130em) {
-    font-size: 160%;
+    font-size: 140%;
   }
 h3 {
   font-family: "Decimal A", "Decimal B";
