@@ -4,10 +4,16 @@ html {
   font-size: 25px;
   line-height: 1.55;
   color: #121212;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: -0.02em;
+  -moz-osx-font-smoothing: grayscale;
 }
 body{
   margin: 4em;
   font-size: 1rem;
+}
+aside, footer, header, main {
+  max-width: 33.75rem;
+  margin: 0 auto;
+  padding: 0 3%;
 }
