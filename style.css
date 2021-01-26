@@ -22,6 +22,14 @@ h3 {
   letter-spacing: -0.04em;
   margin: 2em 0 1em;
 }
+a {
+	color: #0d0d0d;
+	border-bottom-color: rgba(13,13,13,.2);
+	padding-bottom: 3px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	text-decoration: none;
+}
 li {
   margin: 0 0 0 -1.7em;
 }
