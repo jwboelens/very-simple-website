@@ -1,8 +1,9 @@
 @import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
 html {
-  font-family: "Sentinel SSm A", "Sentinel SSm B";
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5;
   color: #121212;
   -moz-osx-font-smoothing: grayscale;
@@ -20,8 +21,6 @@ body {
     }
 } 
 h3 {
-  font-family: "Decimal A", "Decimal B";
-  font-style: normal;
   font-weight: 600;
   font-size: 14px;
   text-transform: uppercase;
