@@ -14,5 +14,4 @@ There is nothing here.
   
 </div>
 
-</body>
-</html>
+<?php include 'footer.php';?>  
