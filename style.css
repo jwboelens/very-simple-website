@@ -41,7 +41,6 @@ img {
 }
 uses span {
 	color: #aaa;
-	font-size: 12px;
 	position: relative;
 	top: -2px;
 }
