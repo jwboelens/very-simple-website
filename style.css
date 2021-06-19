@@ -59,13 +59,3 @@ uses new {
 	line-height: 1;
 	text-transform: uppercase;
 }
-hr {
-	margin:2rem 0;
-	max-width:3rem;
-	border:none;
-	border-top:2px solid #ffb300;
-}
-footer {
-	margin: 5rem 0 0;
-	font-size: 12px;
-}
