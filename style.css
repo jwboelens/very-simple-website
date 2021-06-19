@@ -47,12 +47,17 @@ uses span {
 uses new {
 	color: #aaa;
 	position: relative;
-	top: -1px;
-	transform: rotate (2deg);
-	background: #006fff;
+	top: -14px;
+	font-size: 8px;
+	left: -11px;
+	transform: rotate(10deg);
+	background: #3f88e6;
 	color: #fff;
-	padding: 1px 3px;
+	padding: 2px 2px;
 	border-radius: 3px;
+	display: inline-block;
+	line-height: 1;
+	text-transform: uppercase;
 }
 hr {
 	margin:2rem 0;
