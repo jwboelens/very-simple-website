@@ -21,18 +21,6 @@ body {
 	padding:3em 2em;
 	margin:0 auto;
 }
-.post-data {
-	font-size:smaller;
-	padding:10px 0;
-	color:#333333;
-}
-.abstract {
-	padding:14px;
-	white-space:pre-wrap;
-	word-wrap:break-word;
-	border:1px solid #c9ba9b;
-	border-radius:6px;
-}
 nav {
 	margin-bottom:20px;
 	color:#555555;
@@ -43,22 +31,6 @@ nav a:hover {
 code {
 	font-family:"Courier New",Courier;
 	font-size:smaller;
-}
-pre {
-	font-family:"Courier New",Courier;
-	font-size:smaller;
-	color:#222222;
-	white-space:pre-wrap;
-	word-wrap:break-word;
-	background-color:#eeeeee;
-	border:1px solid #aaaaaa;
-	padding:14px;
-	border-radius:6px;
-}
-pre.no-style {
-	line-height:normal;
-	background-color:#ffffff;
-	border:0px;
 }
 h1,h2,h3,h4 {
 	font-weight:600;
@@ -92,28 +64,4 @@ hr {
 footer {
 	margin:30px 0px;
 	font-size: 13px;
-}
-.collapsible {
-	background-color: #777;
-	color: white;
-	cursor: pointer;
-	padding: 18px;
-	width: 100%;
-	border: none;
-	text-align: left;
-	outline: none;
-	font-size: 15px;
-	border-radius: 4px;
-}
-
-.active, .collapsible:hover {
-	background-color: #555;
-}
-
-.content {
-	padding: 0 18px;
-	display: none;
-	overflow: hidden;
-	background-color: #f1f1f1;
-	margin: 10px 0 0 0;
 }
