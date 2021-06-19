@@ -44,6 +44,16 @@ uses span {
 	position: relative;
 	top: -1px;
 }
+uses new {
+	color: #aaa;
+	position: relative;
+	top: -1px;
+	transform: rotate (2deg);
+	background: #006fff;
+	color: #fff;
+	padding: 1px 3px;
+	border-radius: 3px;
+}
 hr {
 	margin:2rem 0;
 	max-width:3rem;
