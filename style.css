@@ -20,6 +20,7 @@ nav a:hover {
 }
 h1,h2,h3,h4 {
 	font-weight:600;
+	font-size: inherit;
 }
 a {
 	color:inherit;
