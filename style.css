@@ -39,11 +39,9 @@ img {
 	-ms-interpolation-mode:bicubic;
 	vertical-align:middle;
 }
-blockquote {
-	color:#333333;
-	margin:0;
-	padding:0.2em 3em;
-	border-left:0.2em orange solid;
+uses span {
+	color: #aaa;
+	font-size: 12px;
 }
 hr {
 	margin:2rem 0;
