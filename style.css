@@ -59,3 +59,9 @@ uses new {
 	line-height: 1;
 	text-transform: uppercase;
 }
+hr {
+	margin: 2rem 0;
+	max-width: 3rem;
+	border: none;
+	border-top: 1px solid #e8e8e8;
+}
